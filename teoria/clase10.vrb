@@ -1,0 +1,19 @@
+\frametitle{\texttt{strcpy}}
+
+\begin{lstlisting}
+// defino un "conjunto" de 10 variables de tipo char
+char s[10];
+// strcpy asigna cada uno de los caracteres de "Hola" // a cada una de las variables del conjunto s
+strcpy(s,"Hola");
+\end{lstlisting}
+\begin{figure}[tb]
+    \centering
+    \includegraphics[scale=.6]{./img/strcpy}
+\end{figure}
+
+\texttt{strcpy} agrega el caracter especial \texttt{\textbackslash{0}} (barra cero) que delimita el final de la cadena.\\
+Para la cadena \texttt{Hola}, se necesitan 5 caracteres \texttt{Hola} más el \texttt{\textbackslash{0}}\\
+Se puede asignar el valor de la cadena con el sigo \texttt{=} solo cuando se define la variable.
+\begin{lstlisting}
+char nombre[] = "Pablo";
+\end{lstlisting}

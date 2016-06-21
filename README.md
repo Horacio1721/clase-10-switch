@@ -1,2 +1,2 @@
-# clase-10-switch
-Material, deber y ejercicios de la clase 10
+# Clase-09
+Material, deber y ejercicios de la clase 09

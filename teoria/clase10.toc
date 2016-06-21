@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{El operador \% (``m\IeC {\'o}dulo'' o ``resto'')}{2}{0}{1}
+\beamer@sectionintoc {2}{Operadores Relacionales}{5}{0}{2}
+\beamer@sectionintoc {3}{Expresiones l\IeC {\'o}gicas}{7}{0}{3}
+\beamer@sectionintoc {4}{Estructuras de control}{13}{0}{4}
+\beamer@subsectionintoc {4}{1}{Estructura de Decisi\IeC {\'o}n}{14}{0}{4}
